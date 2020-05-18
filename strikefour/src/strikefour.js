@@ -5,7 +5,7 @@ const StrikeFour = () => {
     const Square = () => {
         return (
             <div>
-                Square WURSTBROT!!
+                Square
             </div>
         );
     }
